@@ -15,7 +15,7 @@
   transition: transform 0.5s ease-in-out;
 }
 
-.slider img {
+.slider__img {
   width: 100%;
   height: 100%;
   object-fit: cover;
